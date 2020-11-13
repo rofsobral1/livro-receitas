@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strigonoff de Frango
+- Strogonoff de Frango
+- Pavê
